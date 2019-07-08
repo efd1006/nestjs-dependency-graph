@@ -12,7 +12,7 @@ npm i git@github.com:iflix/nestjs-dependency-graph.git --save-dev
   }
 ```
 
-Don't forget to update correct path to your root app.module file
+Don't forget to update script path to your root `app.module.js` file 
 
 
 ### Run
