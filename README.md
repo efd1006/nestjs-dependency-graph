@@ -2,7 +2,7 @@
 
 ## Installing as dependency
 ```$bash
-npm i https://github.com/shipiak/nestjs-dependency-graph.git --save-dev
+npm i git@github.com:iflix/nestjs-dependency-graph.git --save-dev
 ```
 
 ### Add to package.json scripts
